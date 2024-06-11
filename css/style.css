@@ -121,7 +121,17 @@ h6,
     padding-right: 0;
     text-align: center;
 }
+ 
+.my_light {
+    background-color: white;
+    color: rgb(0, 0, 0) !important;
+}
 
+.my_light a {
+
+    color: rgb(0, 0, 0) !important;
+}
+ 
 
 /*** Navbar ***/
 .navbar-dark .navbar-nav .nav-link {
